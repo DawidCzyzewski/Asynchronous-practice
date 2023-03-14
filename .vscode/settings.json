@@ -1,0 +1,6 @@
+{
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": false,
+  "javascript.inlayHints.parameterTypes.enabled": false
+}
